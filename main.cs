@@ -1,11 +1,9 @@
 using System;
-
 class Program
 {
     public static void Main(string[] args)
     {
         decimal bills = 1;
-
         switch (bills)
         {
         case 0.01M:
